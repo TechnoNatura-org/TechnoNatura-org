@@ -1,1 +1,3 @@
-# TechnoNatura-org
+# Welcome to TechnoNatura-org!
+
+currently maintained by @aldhanekaa
